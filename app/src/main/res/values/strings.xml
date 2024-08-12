@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">View Binding</string>
+    <string name="top_learner_content_description">Top learner content description</string>
 </resources>
