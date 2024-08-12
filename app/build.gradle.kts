@@ -60,7 +60,7 @@ dependencies {
     implementation(libs.androidx.fragment.ktx)
     implementation(libs.koin.android)
     implementation(libs.koin.core)
-    //implementation(libs.koin.viewmodel)
+    implementation(libs.material)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
